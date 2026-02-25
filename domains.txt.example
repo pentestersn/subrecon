@@ -1,0 +1,5 @@
+# fichier exemple — mets tes domaines ici (1 par ligne)
+# format: juste le domaine, sans http://
+example.com
+example.org
+# example.net  <- commenté, ignoré

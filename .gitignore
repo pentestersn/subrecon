@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*_results.txt
+*_all.txt
+*_alive.txt
+*_sources.txt
+*_org_domains.txt
+domains.txt
+targets.txt
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
